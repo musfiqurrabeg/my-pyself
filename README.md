@@ -1,5 +1,3 @@
-As-Salamu Alaikum.
+As-Salamu Alaikum,
 <br>
-Myself Musfiqur Rahman Abeg.
-<br>
-I'm the author of this repository.
+Myself Musfiqur Rahman Abeg. I'm the author of this repository.
