@@ -8,3 +8,4 @@ for number in range(1, target + 1,):
         print("Buzz")
     else:
         print(number)
+        
